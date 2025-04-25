@@ -50,4 +50,4 @@ def print_solution():
 if solve_maze(0, 0):
     print_solution()
 else:
-    print("경로를 찾을 수 없습니다.")
+    print("경로를 찾을 수 없습니다..")
